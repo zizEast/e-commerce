@@ -1,0 +1,8 @@
+
+.card img{
+  max-height: 150px;
+  object-fit: cover;
+}
+.card-text{
+  color: rgb(45, 45, 45);
+}
